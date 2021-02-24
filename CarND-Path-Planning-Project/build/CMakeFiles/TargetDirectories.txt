@@ -1,3 +1,0 @@
-/home/minsu/udacity_ws/self-driving/CarND-Path-Planning-Project/build/CMakeFiles/rebuild_cache.dir
-/home/minsu/udacity_ws/self-driving/CarND-Path-Planning-Project/build/CMakeFiles/path_planning.dir
-/home/minsu/udacity_ws/self-driving/CarND-Path-Planning-Project/build/CMakeFiles/edit_cache.dir
